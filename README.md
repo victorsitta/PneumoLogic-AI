@@ -161,6 +161,9 @@ Lista completa de fatos mantidos no prontuário do paciente:
 
 ---
 
+<img width="925" height="418" alt="image" src="https://github.com/user-attachments/assets/bfbbf17c-5dac-44a7-8909-3d1349a3b5bf" />
+
+
 <div align="center">
   <p>Desenvolvido por <strong>João Victor Sitta</strong> durante o programa <strong>Tech Builder</strong> 🚀</p>
 </div>
